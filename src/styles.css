@@ -1,0 +1,44 @@
+body {
+  background: #f7f7f7;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.userCard {
+  margin: 0 auto;
+  margin-top: 5px;
+  padding: 10px;
+
+  width: 200px;
+  height: 220px;
+
+  border: 2px solid gray;
+  border-radius: 20px;
+}
+
+.button {
+  background: blue;
+  border: none;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.button:hover {
+  background: green;
+  border: none;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.preloader {
+  text-align: center;
+  font-size: 32px;
+}
